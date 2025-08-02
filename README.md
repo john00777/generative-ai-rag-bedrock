@@ -45,12 +45,5 @@ Set up using Amazon Bedrock Guardrails:
 - Contextual grounding
 - Enforced vs Unenforced mode testing
 
-## 🖼️ Screenshots (Upload here)
 
-- Guardrail config
-- Q&A outputs with and without grounding
-- RAGAS evaluation summary
-- Bedrock Knowledge Base setup
-
-## 📂 Project Structure
 
